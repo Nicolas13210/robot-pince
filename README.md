@@ -1,2 +1,2 @@
 # Robot-Pince
-Robot capable d'attraper des objets
+Le but de notre projet est de faire un robot muni d’une pince capable d’attraper des objets de certaines couleurs et de les poser à un endroit défini. Pour cela, il sera équipé d’une caméra colorimétrique ainsi que d’un module de communication permettant à l’utilisateur de choisir la couleur de l’objet à prendre. Une fois que le robot saura quelle couleur chercher, il tournera sur lui-même jusqu’à trouver un objet de la bonne couleur puis il ira le chercher de façon autonome avant de le ramener dans une zone d’une couleur prédéfinie. 
